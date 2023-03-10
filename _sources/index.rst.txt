@@ -1,0 +1,57 @@
+.. RT2_1 documentation master file, created by
+   sphinx-quickstart on Thu Mar  9 23:20:19 2023.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+Welcome to RT2_1's documentation!
+=================================
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+Indices and tables
+==================
+
+* :ref:`genindex`   
+* :ref:`modindex`
+* :ref:`search`
+
+highlight_language = 'c++'
+source_suffix = '.rst'
+master_doc = 'index'
+html_theme = 'sphinx_rtd_theme'
+
+
+
+
+Robot_Controller documentation!
+**************************************
+This is the documentation of the Robot_Controller package!
+
+firstnode Module
+===========================
+
+.. automodule:: scripts.firstnode
+  :members:
+  
+secondnode Module
+===========================
+
+.. automodule:: scripts.secondnode
+  :members:
+  
+thirdnode Module
+===========================
+
+.. automodule:: scripts.thirdnode
+  :members:
+  
+fourthnode Module
+===========================
+
+.. automodule:: scripts.fourthnode
+  :members:
+  
+   
+
